@@ -1,0 +1,15 @@
+gcc
+gdb
+make
+
+
+Creating a C Compiler From Scratch Video Course!
+
+Compilers: Principles, Techniques, and Tools 2nd Edition
+by Alfred Aho (Author), Jeffrey Ullman (Author), Ravi Sethi (Author), & 1 more
+
+Writing a C Compiler: Build a Real Programming Language from Scratch
+by Nora Sandler (Author)
+
+Engineering a Compiler 3rd Edition
+by Keith D. Cooper (Author), Linda Torczon (Author)
